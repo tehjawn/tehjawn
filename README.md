@@ -7,4 +7,4 @@
 - 💬 Ask me almost anything - I'm always happy to help in whatever way I can!
 - 📫 How to reach me: https://www.linkedin.com/in/john--nguyen/
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: I've an enjoyer of anime, D&D, and video games.
+- ⚡ Fun facts: I've an enjoyer of anime, D&D, and video games - recently been playing Team Fortress 2, Teamfight Tactics, and Elden Ring!

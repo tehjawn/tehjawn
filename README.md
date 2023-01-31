@@ -1,9 +1,8 @@
-### 👋 Hi! I'm John Nguyen - Software + Product Developer
+### 👋 Hi! I'm John Nguyen - a digital creative with a current focus on frontend software engineering.
 
-- 🔭 I’m currently working on chatbots, web experimentation, and website creation using Next.js.
-- 🌱 I’m currently learning about Next.js, Web3, AWS Lex, and Edge Workers.
+- 🔭 I’m currently working on website design and development with Figma, TypeScript, React, and Next.js.
+- 🌱 I’m currently learning more about Next.js, digital design, and product development.
 - 👯 I’m looking to collaborate on building websites, apps, and/or brands!
-- 🤔 I’m looking for help with Next.js.
 - 💬 Ask me almost anything - I'm always happy to help in whatever way I can!
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: I've an enjoyer of anime, D&D, and video games - recently been playing Team Fortress 2, Teamfight Tactics, and Elden Ring!
+- ⚡ Fun fact: I've been traveling to various anime conventions for artist alley for the past year!

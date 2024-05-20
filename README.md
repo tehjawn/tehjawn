@@ -5,3 +5,5 @@
 - 👯 Contact me if you'd like to hiring me or collaborating with me on building websites, apps, and/or brands!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been traveling to and selling art at various anime & comic conventions for the past two years!
+
+[New GitHub: jawncodes](https://github.com/jawncodes/)
